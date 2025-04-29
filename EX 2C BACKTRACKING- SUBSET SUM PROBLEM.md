@@ -12,7 +12,7 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 5. Define a function subsetSum(n, arr, x):.
 6. Call the function subsetSum(n, arr, x) to check and print all valid subsets.  
 7. End the program.
-8. 
+
 ## Program:
 ```
 /*
